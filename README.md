@@ -19,5 +19,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nosir969&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github.com/user-attachments/assets/b0b99789-a68b-4552-acd5-38b84e79117e)
+
+<div align="center">
+  <img src="https://count.getloli.com/@:nosir969?theme=booru-huggboo&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
