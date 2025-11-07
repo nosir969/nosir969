@@ -24,4 +24,8 @@
   <img src="https://count.getloli.com/@:nosir969?theme=booru-huggboo&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+##
+
+<img src="https://raw.githubusercontent.com/nosir969/nosir969/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
