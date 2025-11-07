@@ -1,5 +1,10 @@
 # 💫Hello World💀
 
+##
+
+![Image](https://github.com/user-attachments/assets/4b3cfaff-d575-4f5f-b1e5-0e33648b6e2c)
+
+##
 
 ## 🌐Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/noxfwl?igsh=MXIxNWM1bzRhMmE3NA==) 
@@ -10,19 +15,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=nosir969&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=nosir969&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nosir969&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nosir969&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=nosir969&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img src="https://count.getloli.com/@:nosir969?theme=booru-huggboo&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-##
-
-![Image](https://github.com/user-attachments/assets/4b3cfaff-d575-4f5f-b1e5-0e33648b6e2c)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
