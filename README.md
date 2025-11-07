@@ -21,4 +21,8 @@
   <img src="https://count.getloli.com/@:nosir969?theme=booru-huggboo&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+##
+
+![Image](https://github.com/user-attachments/assets/4b3cfaff-d575-4f5f-b1e5-0e33648b6e2c)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
