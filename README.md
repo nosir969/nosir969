@@ -15,4 +15,3 @@
   <img src="https://count.getloli.com/@:nosir969?theme=booru-huggboo&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
